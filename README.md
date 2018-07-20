@@ -7,4 +7,4 @@ Spanish translation of wpjobboard (Versión 5.0.4) wordpress pluggin (https://wp
 
 Instructions:
 * For plugin version 5.0.4 replace the languages folder inside the plugin folder.
-* If you use another version can copy the files with extensions *.po *.mo inside your languages folder and add the new translation por the new contents
+* If you use another version can copy the files with extensions *.po *.mo inside your languages folder and add the new translation for the new contents
